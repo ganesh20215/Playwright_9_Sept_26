@@ -27,5 +27,3 @@ async function navigationExample() {
 }
 
 navigationExample();
-
-//Happy Weekend

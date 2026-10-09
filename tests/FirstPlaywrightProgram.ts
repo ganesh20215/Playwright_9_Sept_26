@@ -1,7 +1,6 @@
 
 import { Browser, BrowserContext, chromium, firefox, Page, webkit } from "@playwright/test";
 
-
 //1. Browser
 //Browser is a top-level object that represent a running browser instance such as chrome, edge, webkit.
 //It is a first object we created before creting contexts & pages.
