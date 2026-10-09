@@ -95,9 +95,6 @@ async function locatorExample() {
     //or() Locator
     // await page.goto('https://www.letskodeit.com/practice');
     // page.locator("button:has-text('Open Window')").or(page.locator('#openwindow')).click();
-
-
-
 }
 
 locatorExample();
